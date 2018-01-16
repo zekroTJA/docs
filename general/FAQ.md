@@ -65,7 +65,7 @@ Ich bin am 12. Dezember 1998 geboren ;)
 ## Als was arbeitest du?
 
 Seit August 2016 mache ich eine Ausbildung zum Fachinformatiker für Anwendungsentwiklung. Ich habe vorher eine ganze Weile überlegt, ob ich nicht Informatik studieren möchte, jedoch habe ich mich bewusst dagegen entschieden, da  es mir in erster Linie darum ging, erstmal praktische Berufserfahrung in dem Sektor zu sammeln und sind wir mal ehlich: auch um erstmal finanziell etwas selbstständiger zu werden nach 12 Jahren fast komplett ohne irgend einer Art von Einkommen :D  
-Zudem sidn meine Kenntnisse in dem Bereich doch recht ausführlich, weswegen ich es erstmal in Betracht zog, herauszufinden, ob mein Hobby auch als mein Beruf Spaß machen wird.
+Zudem sind meine Kenntnisse in dem Bereich doch recht ausführlich, weswegen ich es erstmal in Betracht zog, herauszufinden, ob mein Hobby auch als mein Beruf Spaß machen wird.
 Dabei arbeite ich in einer Firma, welche sich mit den Themen Cyber-Security, Encryption und Kommunikation beschäftigt, als Frontend- und UI-Developer.
 <br><br>
 
