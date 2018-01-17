@@ -1,6 +1,6 @@
 # <img src="https://image.flaticon.com/icons/svg/545/545786.svg" width="26"/> zekro FAQ
 
-> v.2.0 &nbsp; - &nbsp; Last edited: 16.01.2018
+> v.2.1 &nbsp; - &nbsp; Last edited: 17.01.2018
 
 ---
 
