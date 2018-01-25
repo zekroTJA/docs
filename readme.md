@@ -13,6 +13,7 @@
 
 - **licenses**
     - [zekro-general-code-policy.md](https://github.com/zekroTJA/docs/blob/master/licenses/zekro-general-code-policy.md)
+    - [zekro-general-code-policy-RAW.txt](https://github.com/zekroTJA/docs/blob/master/licenses/zekro-general-code-policy-RAW.txt)
 
 - **snippets**
     - `empty`
