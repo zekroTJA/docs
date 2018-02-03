@@ -1,6 +1,6 @@
 # <img src="https://image.flaticon.com/icons/svg/545/545786.svg" width="26"/> zekro FAQ
 
-> v.2.1 &nbsp; - &nbsp; Last edited: 17.01.2018
+> v.2.2 &nbsp; - &nbsp; Last edited: 2018/02/03
 
 ---
 
@@ -21,6 +21,12 @@ Zuvor solltest du aber **unbedingt** folgende [**Policy**](https://github.com/ze
 ## Welches Gear und welche Software nutzt du?
 
 ☞ **[Hier](https://github.com/zekroTJA/docs/blob/master/general/gear.md)** findest du ein ausführliches Dokument darüber ;)
+
+## Welches Discord Theme benutzt du?
+
+Momentan nutze ich ein Teme, welches eine von mir konfigurierte Version des Themes [DarkMatter](https://github.com/cosmicsalad/Discord-Themes-and-Plugins/blob/master/themes/DarkMatter/DarkMatter.theme.css) ist.  
+**[→ Hier](https://github.com/zekroTJA/DarkMatterShinobu)** kannst du dir meine Version des Themes herunterladen.
+<br><br>
 
 ## Welche Programmiersprachen beherrschst du?
 
@@ -71,7 +77,7 @@ Dabei arbeite ich in einer Firma, welche sich mit den Themen Cyber-Security, Enc
 
 ## Wann und wie hast du angefangen mit Programmieren?
 
-> Du dem Thema wird später ein ausführliches Video erscheinen.
+> Zu dem Thema wird später ein ausführliches Video erscheinen.
 
 Angefangen habe ich c.a. 2012/2013 mit "programmieren". Anfangs habe ich mich sehr für die Scriptsprache `Batch` interessiert und habe mich da das erste mal mit dem Thema auseinander gesetzt. Ich habe sogar mithilfe von Batch ein System gebastelt, was kleine Tools wie Rechner, Text-Editoren, Root-X-Verschlüsseler und sogar kleine Spiele beinhielt.  
 Später bin ich auf `Visual Basic` *(Nicht die Sprache, so hieß damals die IDE MS Visual Studio)* und `C#` gestoßen und habe sämtliche kleine, mehr oder weniger sinnvolle Tools damit entwickelt. Damals fast ausschließlich mithilfe von YouTube-Tutorals und Trial-And-Error.  
