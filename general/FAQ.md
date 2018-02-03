@@ -24,7 +24,7 @@ Zuvor solltest du aber **unbedingt** folgende [**Policy**](https://github.com/ze
 
 ## Welches Discord Theme benutzt du?
 
-Momentan nutze ich ein Teme, welches eine von mir konfigurierte Version des Themes [DarkMatter](https://github.com/cosmicsalad/Discord-Themes-and-Plugins/blob/master/themes/DarkMatter/DarkMatter.theme.css) ist.  
+Momentan nutze ich ein Theme, welches eine von mir konfigurierte Version des Themes [DarkMatter](https://github.com/cosmicsalad/Discord-Themes-and-Plugins/blob/master/themes/DarkMatter/DarkMatter.theme.css) ist.  
 ☞ **[Hier](https://github.com/zekroTJA/DarkMatterShinobu)** kannst du dir meine Version des Themes herunterladen.
 <br><br>
 
