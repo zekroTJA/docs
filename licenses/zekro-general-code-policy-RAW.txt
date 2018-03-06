@@ -1,7 +1,7 @@
 zekro Development Code Policy (English)
 Policy v.1.2.2 - Last edited: 16.01.2018
 
-(c) <year> <your name>
+(c) 2018 Ringo Hoffmann (zekro Development)
 
 -----
 
