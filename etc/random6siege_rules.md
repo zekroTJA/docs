@@ -1,4 +1,4 @@
-# RANDOM6SIEGE RULES
+# RANDOM6SIEGE© RULES
 
 > german - v.1.0 - 2018/03/06
 
@@ -16,7 +16,7 @@
     - 2.2 - Alle Regeln aus `1.1` und `1.2` gelten auch im Fall eines Rerolls.  
     - 2.3 - Rerolls haben einen festgesetzten Cooldown von 12 Stunden.  
 
-3. Erzielt ein Spieler **innerhalb** einer Random6Siege-Runde ein **Ace**, so hat er die Möglichkeit in einer beliebigen Runde die Möglichkeit, seinen eigenen und die Operator aller anderen Mitspieler zu bestimmen.  
+3. Erzielt ein Spieler **innerhalb** einer Random6Siege©-Runde ein **Ace**, so hat er die Möglichkeit in einer beliebigen Runde die Möglichkeit, seinen eigenen und die Operator aller anderen Mitspieler zu bestimmen.  
     - 3.1 - Dieser Zustand lässt sich nicht stacken, d.h., wenn ein Spieler erneut ein Ace erzielt ohne oben genanntes vorher eingesetzt zu haben, so zäht dies trotzdem nur ein mal und nicht mehrfach.  
     - 3.2 - *Ace* bedeutet in dem Zusammenhang das alleinige Killen **aller gegner**. Wenn im Gegnerteam nur 4 Gegner vorhanden sind, so zählt dies auch als Ace. Es zählt nicht, wenn nur 3 oder weniger Gegner sich im Gegnerteam befinden.  
 
