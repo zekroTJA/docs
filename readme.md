@@ -21,3 +21,6 @@
 - **support**
     - [support-guideline.md](https://github.com/zekroTJA/docs/blob/master/support/support-guideline.md)
     - [userbot-rules.md](https://github.com/zekroTJA/docs/blob/master/support/userbot-rules.md)
+
+- **etc**
+    - [random6siege_rules.md](https://github.com/zekroTJA/docs/blob/master/etc/random6siege_rules.md)
