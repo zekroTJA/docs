@@ -16,7 +16,8 @@
     - [zekro-general-code-policy-RAW.txt](https://github.com/zekroTJA/docs/blob/master/licenses/zekro-general-code-policy-RAW.txt)
 
 - **snippets**
-    - `empty`
+    - **python**
+        - [colors.py](https://github.com/zekroTJA/docs/blob/master/snippets/python/colors.py)
 
 - **support**
     - [support-guideline.md](https://github.com/zekroTJA/docs/blob/master/support/support-guideline.md)
