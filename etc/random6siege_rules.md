@@ -22,5 +22,4 @@
 
 4. Es gibt verschiedene vordefinierte Modi für Recruiten:
     - `Recruit (Only Real)` → Spetznatz mit der Waffe 6P41 (MG)
-    - `Recruit (Full Engage)` → Überschreibt alle anderen, zugewisenen Operator 
-                              → jeder Mitspieelr muss einen Recruit spielen, dessen Ausrüstung und Gruppe von dem bestimmt wird, dem `Full Engage` zugewiesen wurde
+    - `Recruit (Full Engage)` → Überschreibt alle anderen, zugewisenen Operator - jeder Mitspieelr muss einen Recruit spielen, dessen Ausrüstung und Gruppe von dem bestimmt wird, dem `Full Engage` zugewiesen wurde
