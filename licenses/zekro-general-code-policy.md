@@ -1,5 +1,5 @@
 # zekro Development Code Policy (English)
-`Policy v.1.2.2` &nbsp; - &nbsp; `Last edited: 16.01.2018`
+`Policy v.1.2.1` &nbsp; - &nbsp; `Last edited: 29.03.2018`
 
 -----
 
@@ -16,6 +16,6 @@
 
 6. Graphical elements, logos, icons and other such elements, which I have created on my own, are **only** usable after personal arrangement with me. Then the above described policy is also fully valid for those elements.
 
-7. If you generate financial revenue **in any way** weith software containing code of mine, you **must** get the personal permission from me for that __**before**__ implementing it in your published program version.
+7. If you generate financial revenue **in any way** with software containing code of mine, you **must** get the personal permission from me for that __**before**__ implementing it in your published program version.
 
 8. In general, this policy is also valid for every type of code, which is created by my "team" (supporter, admins...) on my "zekro's Devschuppen" Discord server send to you, except the individual creator gives explicit exemptions from this policy for it.
