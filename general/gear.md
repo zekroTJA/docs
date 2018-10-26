@@ -22,7 +22,7 @@
 | **GAMEPAD**       |  XBox 360 Wireless PC Controller |
 | **WEBCAM**        |  Logitech C270 |
 | **UPLOAD-DEVICE** |  Raspberry Pi 3 Model B |
-| **VPS** | "OpenVZ Plus" @ signaltransmitter.de (3 vCores, 3GB RAM) |
+| **VPS** | OPS KVM, 8GB RAM, 4 vCores, 200GB SSD - hosted by contabo.com |
 
 
 ## SOFTWARE
@@ -32,6 +32,8 @@
 
 **POSTPROCESSING:**<br>
 - VEGAS Pro 14
+- FFMPEG
+- Handbreak
 - Affinity Photo
 - Audacity
 - Adobe Audition CC 2015
@@ -39,8 +41,8 @@
 **CODING:**<br>
 - JetBrains IntelliJ IDEA 2017 (Java)
 - Microsoft Visual Studio 2017 (C#, C++)
-- QT Creator (C++, QML)
-- Visual Studio Code (JS, Webstuff, Python)
+- QT Creator (C++, Qt/QML)
+- Visual Studio Code (JS, Go, Webstuff, Python)
 - Notepad++
 
 
