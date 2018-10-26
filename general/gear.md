@@ -1,19 +1,19 @@
-> last updated: 16.01.2018
+> last updated: 26.10.2018
 
 ## PC GEAR
-| TYPE | MODEL |
-|--|---|
-|**CPU** | AMD FX-6300 |
-| **RAM** | G.Skill RipjawX DDR3-1600 (4x 4GB) |
-| **GPU** | Sapphire Radeon R9 380 Nitro OC (4GB VRAM) | 
+| TYPE          | MODEL       |
+|---------------|-------------|
+| **CPU**       | AMD FX-6300 |
+| **RAM**       | G.Skill RipjawX DDR3-1600 (4x 4GB) |
+| **GPU**       | Sapphire Radeon R9 380 Nitro OC (4GB VRAM) | 
 | **MAINBOARD** | ASRock 970 Extreme4 |
-| **HDD'S** | Seagate ST2000DM001 2TB (x2) |
+| **HDD'S**     | Seagate ST2000DM001 2TB (x2) |
 
 
 ## PERIPHERY
 
-| TYPE | MODEL |
-|--|---|
+| TYPE              | MODEL |
+|-------------------|-------|
 | **MONITORS**      |  Acer S242HLDBID (24", 1920x1080), an very old one as second screen (19", 1440x900) |
 | **MOUSE**         |  Logitech G502 Proteus Spectrum |
 | **KEYBOARD**      |  Logitech G810 Orion Spectrum |
@@ -22,7 +22,7 @@
 | **GAMEPAD**       |  XBox 360 Wireless PC Controller |
 | **WEBCAM**        |  Logitech C270 |
 | **UPLOAD-DEVICE** |  Raspberry Pi 3 Model B |
-| **VPS** | OPS KVM, 8GB RAM, 4 vCores, 200GB SSD - hosted by contabo.com |
+| **VPS**           | OPS KVM, 8GB RAM, 4 vCores, 200GB SSD - hosted by contabo.com |
 
 
 ## SOFTWARE
@@ -48,8 +48,8 @@
 
 ## ENCODING SETTINGS
 
-| VIDEO | SETTING |
-|--|---|
+| VIDEO         | SETTING |
+|---------------|---------|
 |FORMAT:        |  H.264 MP4 |
 |RESOLUTION:    |  1920x1080 |
 |FRAMERATE:     |  60FPS |
@@ -58,8 +58,8 @@
 |ENCODING TYPE: |  CBR |
 |TARGET BITRATE:|  16Mbit/s |
 
-| AUDDIO | SETTING |
-|--|---|
+| AUDDIO         | SETTING |
+|----------------|---------|
 | AUDIO FORMAT:  |   AAC |
 | SAMPLE RATE:   |   48000Hz |
 | CHANNELS:      |   Stereo |
