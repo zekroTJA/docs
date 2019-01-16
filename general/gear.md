@@ -7,6 +7,7 @@
 | **RAM** | G.Skill RipjawX DDR3-1600 (4x 4GB) |
 | **GPU** | Sapphire Radeon R9 380 Nitro OC (4GB VRAM) | 
 | **MAINBOARD** | ASRock 970 Extreme4 |
+| **SSD** | Samsung SSD 680 EVO 500GB |
 | **HDD'S** | Seagate ST2000DM001 2TB (x2) |
 
 
@@ -27,7 +28,7 @@
 | TYPE | MODEL |  
 |------|-------|
 | **UPLOAD-DEVICE** |  Raspberry Pi 3 Model B |  
-| **VPS** | Contabo VPS SSD (4 x 2.2 GHz, 8 GB RAM, 200 GB SSD space) |  
+| **VPS** | Contabo VPS SSD<br>- Intel Xeon E5-2630 v4 (4 VCores)<br>- 8 GB RAM<br>- 200 GB SSD space |  
 
 
 ## SOFTWARE
@@ -37,9 +38,9 @@
 
 **POSTPROCESSING:**  
 - VEGAS Pro 14
+- Olive Editor
 - Affinity Photo
 - Audacity
-- Adobe Audition CC 2015
 
 **CODING:**  
 - JetBrains IntelliJ IDEA 2017 (Java)
