@@ -1,10 +1,10 @@
-> last updated: 11.01.2019
+> last updated: 09.10.2019
 
 ## PC GEAR
 | TYPE | MODEL |
 |--|---|
 |**CPU** | AMD FX-6300 |
-| **RAM** | G.Skill RipjawX DDR3-1600 (4x 4GB) |
+| **RAM** | 2 x 4 GB + 2 x 8GB @ 1600MHz DDR3 |
 | **GPU** | Sapphire Radeon R9 380 Nitro OC (4GB VRAM) | 
 | **MAINBOARD** | ASRock 970 Extreme4 |
 | **SSD** | Samsung SSD 680 EVO 500GB |
@@ -21,19 +21,20 @@
 | **HEADSET**       |  beyerdynamic DT 990 PRO |
 | **MICROPHONE**    |  RØDE NT-USB |
 | **GAMEPAD**       |  XBox 360 Wireless PC Controller |
-| **WEBCAM**        |  Logitech C270 |
+| **WEBCAM**        |  Logitech C920 |
 
 ## ETC
 
 | TYPE | MODEL |  
 |------|-------|
+| **ISP CONNECTION** | 100MBit Down / 40MBit Up @ Vodafone |
 | **UPLOAD-DEVICE** |  Raspberry Pi 3 Model B |  
 | **VPS** | Contabo VPS SSD<br>- Intel Xeon E5-2630 v4 (4 VCores)<br>- 8 GB RAM<br>- 200 GB SSD space |  
 
 
 ## SOFTWARE
 
-**RECORDING:**  
+**RECORDING/STREAMING:**  
 - OBS Studio
 
 **POSTPROCESSING:**  
