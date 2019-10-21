@@ -7,7 +7,7 @@
 # GENERAL
 
 ## Wie kann ich dich kontaktieren?
-
+Am besten erreichbar bin ich auf meinem **[Discord Development Server](http://discord.zekro.de)**. Da kannst du mich gern via PN benachrichtigen oder, wenn ich mal gerade nicht online bin, meine Supporter oder die anderen User auf meinem Discord um Hilfe für dein Problem befragen.
 Ansonsten bin ich natürlich auch erreichbar über **[Twitter](http://twitter.com/zekrotja)**.
 <br><br>
 
